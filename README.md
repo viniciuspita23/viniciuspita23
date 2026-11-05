@@ -1,6 +1,6 @@
 # Vinícius Pita
 
-**`Analista de sistemas & Desenvolvedor Back end em desenvolvimento`**
+**`Analista de Sistemas & Desenvolvedor Back end em desenvolvimento`**
 
 Sou profissional graduado em Gestão da Tecnologia da Informação com experiência em **Suporte Técnico, Análise de Sistemas e sustentação de sistemas ERP**, atuando com atendimento B2B, análise de incidentes, consultas SQL e suporte a operações de negócio.
 
