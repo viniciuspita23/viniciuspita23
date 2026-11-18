@@ -1,117 +1,98 @@
-# Vinícius Pita
+<div align="center">
 
-**`Analista de Sistemas & Desenvolvedor Back end em desenvolvimento`**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:F97316&height=220&section=header&text=Vin%C3%ADcius%20Pita&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Back-end%20Java&descAlignY=58&descSize=20" width="100%" alt="Banner Vinícius Pita" />
 
-Sou profissional graduado em Gestão da Tecnologia da Informação com experiência em **Suporte Técnico, Análise de Sistemas e sustentação de sistemas ERP**, atuando com atendimento B2B, análise de incidentes, consultas SQL e suporte a operações de negócio.
+<a href="https://github.com/viniciuspita23">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F97316&center=true&vCenter=true&width=720&height=50&lines=Java+%7C+Spring+Boot+%7C+SQL;De+suporte+ERP+para+desenvolvimento+Back-end;Construindo+sistemas+reais%3A+estoque%2C+vendas%2C+clientes;Aberto+a+vagas+de+Back-end+J%C3%BAnior+e+Est%C3%A1gio" alt="Typing SVG" />
+</a>
 
-Atualmente, estou direcionando minha carreira para o **desenvolvimento Back-end**, aprofundando meus conhecimentos em Java, Programação Orientada a Objetos (POO), lógica de programação e MySQL. Também estou estudando Spring Boot e desenvolvimento de APIs REST.
+<br/><br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciuspita23)
+[![Gmail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusspita@gmail.com)
+![Status](https://img.shields.io/badge/STATUS-ABERTO%20A%20OPORTUNIDADES-F97316?style=for-the-badge)
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/vin%C3%ADcius-pita-1b8b55209/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://www.instagram.com/viniciuspita_/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-</p>
-
-
-----
-
-***Linguagens e Tecnologias***
-
-<img 
-    align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Git"
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-<img
-    align="left"
-    alt="GitHub"
-    title="GitHub"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.simpleicons.org/github/FFFFFF"
-/>
-<img
-    align="left"
-    alt="IntelliJ"
-    title="IntelliJ"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
-/>
-<img
-    align="left"
-    alt="VSCode"
-    title="VSCode"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-/>
-<br>
-
-
-***Em desenvolvimento***
-
-<img
-    align="left"
-    alt="Spring Boot"
-    title="Spring Boot"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-/>
-<img
-    align="left"
-    alt="REST API"
-    title="REST API"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/network-wired.svg"
-/>
-<img
-    align="left"
-    alt="Docker"
-    title="Docker"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"
-/>
-<img
-    align="left"
-    alt="AWS"
-    title="AWS"
-    width="30px"
-    style="padding-right: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain.svg"
-/>
-<br>
+</div>
 
 ---
 
-🚀 ***Em busca de oportunidades***
+## 👨‍💻 Sobre mim
 
-Atualmente, estou em transição de carreira para o desenvolvimento Back-end e busco uma oportunidade para aplicar meus conhecimentos, desenvolver minhas habilidades e crescer profissionalmente na área de tecnologia.
+```java
+public class ViniciusPita {
 
-**Tenho interesse em oportunidades como Desenvolvedor Back-end Java Júnior ou Estagiário.**
+    String objetivo  = "Desenvolvedor Back-end Java Júnior";
+    String formacao  = "Gestão da Tecnologia da Informação (IF Sudeste MG)";
+    String origem    = "Suporte N1/N2 em sistemas ERP, com SQL/MySQL no dia a dia";
+    String[] estudandoAgora = { "Java e POO", "MySQL", "Spring Boot", "APIs REST" };
+
+    public String meuDiferencial() {
+        return "Já vivi o problema do usuário. Agora construo a solução.";
+    }
+}
+```
+
+Vim da linha de frente do suporte a sistemas ERP: atendi clientes B2B, analisei incidentes e escrevi consultas SQL para descobrir o que estava quebrado. Hoje uso essa vivência para construir sistemas que resolvem problemas reais de negócio, com foco em **lógica de programação, orientação a objetos, SQL e Back-end**.
+
+---
+
+## 🛠️ Stack
+
+<div align="center">
+
+**Base**
+
+<img src="https://skillicons.dev/icons?i=java,mysql,git,github,idea,vscode&theme=dark" alt="Stack base" />
+
+**Aprendendo agora**
+
+<img src="https://skillicons.dev/icons?i=spring,docker,aws&theme=dark" alt="Stack em estudo" />
+
+</div>
+
+---
+
+## 🚀 Projetos em destaque
+
+| Projeto | O que é | Tecnologias |
+|---|---|---|
+| [**JavaStore**](https://github.com/viniciuspita23/JavaStore) | Sistema de gerenciamento de uma loja, feito para praticar lógica de programação e POO | ![Java](https://img.shields.io/badge/Java-F97316?style=flat-square&logo=openjdk&logoColor=white) |
+| [**TreinoJava**](https://github.com/viniciuspita23/TreinoJava) | Exercícios progressivos de Java, da lógica básica a problemas mais completos | ![Java](https://img.shields.io/badge/Java-F97316?style=flat-square&logo=openjdk&logoColor=white) |
+
+---
+
+## 🧭 Roadmap
+
+- [x] Lógica de programação
+- [x] Java e Programação Orientada a Objetos
+- [x] SQL / MySQL
+- [ ] Spring Boot e APIs REST *(em andamento)*
+- [ ] Docker
+- [ ] Deploy na AWS
+
+---
+
+## 📊 Atividade no GitHub
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=viniciuspita23&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F97316&icon_color=F97316&text_color=c9d1d9" alt="Estatísticas" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuspita23&layout=compact&hide_border=true&bg_color=0d1117&title_color=F97316&text_color=c9d1d9" alt="Linguagens mais usadas" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=viniciuspita23&bg_color=0d1117&color=F97316&line=F97316&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de contribuições" width="100%" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/viniciuspita23/viniciuspita23/output/github-snake-dark.svg" alt="Cobrinha comendo as contribuições" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+*"Primeiro faça funcionar, depois entenda por que funciona, depois faça melhor."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:0d1117&height=120&section=footer" width="100%" alt="Rodapé" />
+
+</div>
